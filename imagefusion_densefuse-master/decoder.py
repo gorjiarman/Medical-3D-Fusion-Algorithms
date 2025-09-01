@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.python import pywrap_tensorflow
 
-WEIGHT_INIT_STDDEV = 0.1
+WEIGHT_INIT_STDDEV = 0.2
 
 
 class Decoder(object):
